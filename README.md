@@ -15,3 +15,11 @@ We wanted to see if the surf and ice cream business would be sustainable year ro
 
 ## Summary
 While the temperature results point to a sustainable business year round, I would want to add additional datapoints to be certain. Temperatures can feel different when there is lack of sun, presence of rain or high winds. I recommend querying humidity/precipitation, and wind conditions to be sure the business will be sustainable year round. I would also recommend doing this for all months to determine if there are multiple months where conditions are poor or just one or two months.
+
+In running queries for the precipitation for June and December, it looks like there are mostly clear days. June may have a few days of heavy rain according to the max values as seen below.
+
+### June Precipitation Statistics
+![Screenshots](https://user-images.githubusercontent.com/72076683/101261528-a2bf3d80-36fd-11eb-8b20-863fe70c70d2.png)
+
+### December Precipitation Statistics
+![Screenshots](https://user-images.githubusercontent.com/72076683/101261537-b66aa400-36fd-11eb-9867-8be73cc5aaba.png)
