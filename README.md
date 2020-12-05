@@ -1,7 +1,7 @@
 # SurfsUp Weather Analysis for June and December
 
 ## Overview
-We wanted to see if the surf and icecream business would be sustainable year round so we are looking at the weather for the months of June and December. 
+We wanted to see if the surf and ice cream business would be sustainable year round so we are looking at the weather for the months of June and December. 
 
 ## Results
 - For both months, there were enough data points to be confident in the results - over 1500 measurment datapoints for both months.
