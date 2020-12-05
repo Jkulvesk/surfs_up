@@ -8,7 +8,7 @@ We wanted to see if the surf and ice cream business would be sustainable year ro
 - Temperature ranges are fairly steady for both months with the standard deviation between 3 and 4 degrees. 
 - Temperature ranges for December are slightly lower than in June with the December mean at almost 4 degrees lower than June. See tables below.
 ### June Temperature Statistics
-![Screentshots]{https://user-images.githubusercontent.com/72076683/101247590-18b4ac00-36e0-11eb-88b7-3e455529f943.png}
+![Screentshots](https://user-images.githubusercontent.com/72076683/101247590-18b4ac00-36e0-11eb-88b7-3e455529f943.png)
 
 ### December Temperature Statistics
 ![Screenshots](https://user-images.githubusercontent.com/72076683/101247625-439f0000-36e0-11eb-85b8-17925a22ef5c.png)
